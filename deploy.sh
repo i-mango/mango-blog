@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Naccl
+# Author: Mango
 #
 # This script is used to deploy NBlog to my server, apply my changes
 # on the "prod" branch for myself.
