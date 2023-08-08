@@ -26,6 +26,7 @@
     "pinia-plugin-persistedstate": "^1.6.1",
     "print-js": "^1.6.0",
     "qs": "^6.11.0",
+    "nprogresse": "^0.2.6",
     "vue": "^3.2.37",
     "vue-i18n": "^9.1.9",
     "vue-router": "^4.0.12",
