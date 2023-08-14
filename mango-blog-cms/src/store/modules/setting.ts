@@ -1,4 +1,4 @@
-import defaultSettings from '.'
+import defaultSettings from '../../settings'
 
 interface State {
   title: string
